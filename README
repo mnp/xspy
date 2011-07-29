@@ -1,0 +1,4 @@
+Original: Jon A. Maxwell
+Rework:   Mitchell Perilstein
+
+Very crude (and buggy!) way to record X keydown events to a log file. YMMV.
