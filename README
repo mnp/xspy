@@ -2,3 +2,12 @@ Original: Jon A. Maxwell
 Rework:   Mitchell Perilstein
 
 Very crude (and buggy!) way to record X keydown events to a log file. YMMV.
+
+How to Build
+
+Tested on Ubuntu 16.04 Xenial.  RPM-type Linuxen will have similar Yum commands.
+
+   $ sudo apt-get update
+   $ sudo apt-get install build-essential libx11-dev
+   $ make
+   
